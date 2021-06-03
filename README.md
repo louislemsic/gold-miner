@@ -1,4 +1,4 @@
-# CSINTSY MC01 - Gold Miner Version 2.4
+# CSINTSY MC01 - Gold Miner Version 2.24
 MC01. A Java Program that showcases AI capabilities using Breath-first Search as an algorithm for a Miner looking for a hidden gold in a grid. This Machine Project was submitted to Mrs. Judith Azcarraga as partial completion for the course CSINTSY at De La Salle University. My coworker for this project is Jordan Sibug.
 
 
