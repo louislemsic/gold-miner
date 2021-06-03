@@ -3,15 +3,16 @@ MC01. A Java Program that showcases AI capabilities using Breath-first Search as
 
 
 ## Downloading the JAR File
-1. Make sure that Java is installed already (Must be Version 11 or up). You may download Java 11 [here](https://www.oracle.com/ph/java/technologies/javase-jdk11-downloads.html). 
-2. Download the JAR file at http://bit.ly/CSINTSY-GoldMiner
-3. After download is finished, you may run it by double-clicking the application. Treat it as an exe file.
+1. Make sure that Java is installed already (Must be Version 11 or up). You may download Java 11 [here](https://www.oracle.com/ph/java/technologies/javase-jdk11-downloads.html). No need to download JavaFX for running the JAR File.
+3. Download the JAR file at http://bit.ly/CSINTSY-GoldMiner
+4. After download is finished, you may run it by double-clicking the application. Treat it as an exe file.
 
 ## Running the Source Code
 1. This project was built using the IntelliJ IDEA. Instructions will be clearer if executed using that IDE. Nonetheless, It should be opened through other IDEs.
-2. You may choose to download the source code through zipping the file or cloning the repository.
-3. Once done downloading, open the folder as project.
-4. Run the main function located at **Driver.java** (src/game/Driver.java)
+2. Make sure both Java and JavaFX are installed. Download Java 11 [here](https://www.oracle.com/ph/java/technologies/javase-jdk11-downloads.html) and JavaFX 11 [here](https://gluonhq.com/products/javafx/).
+3. You may choose to download the source code through zipping the file or cloning the repository.
+4. Once done downloading, open the folder as project. Add JavaFX libraries to the Global Libraries of IntelliJ Project. Learn how to do it [here](https://youtu.be/WtOgoomDewo).
+5. Run the main function located at **Driver.java** (src/game/Driver.java)
 
 
 ### Final Reminders
