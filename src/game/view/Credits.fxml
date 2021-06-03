@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="creditsPage" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="716.0" prefWidth="1218.0" stylesheets="@resources/style.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="game.controller.CreditsController">
+   <children>
+      <Button id="buttonCredits" layoutX="469.0" layoutY="579.0" mnemonicParsing="false" onAction="#goBackAction" prefHeight="43.0" prefWidth="298.0" stylesheets="@resources/style.css" text="BACK TO MAIN MENU">
+         <font>
+            <Font name="Gill Sans Ultra Bold" size="20.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

@@ -1,0 +1,62 @@
+#bodybg{
+    -fx-background-image: url("mainBG_2.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;  
+}
+
+#minerPage{
+    -fx-background-image: url("minerBG.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;  
+}
+
+#smartBoardPage{
+    -fx-background-image: url("smartBG.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;  
+}
+
+#randomBoardPage{
+    -fx-background-image: url("randomBG.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;  
+}
+
+#creditsPage{
+    -fx-background-image: url("creditsBG.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;  
+}
+
+#button {
+    -fx-background-color: #000000;
+}
+
+#buttonCredits {
+    -fx-background-color: #FFFFFF;
+}
+
+#exitButton {
+    -fx-background-color: #D13B1C;
+}
+
+#splitPane {
+    -fx-background-color: transparent;
+}
+
+.split-pane-divider {
+  -fx-padding: 0 ;
+}
+
+.scroll-pane{
+   -fx-background-color:transparent;
+}
+
+.scroll-pane > .viewport {
+   -fx-background-color: transparent;
+}
+
+.GridLines Line {
+  -fx-stroke   : white;
+}
+

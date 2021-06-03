@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="minerPage" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="716.0" prefWidth="1218.0" stylesheets="@resources/style.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="game.controller.MinerMenuController">
+   <children>
+      <AnchorPane fx:id="randomMiner" layoutX="169.0" layoutY="197.0" onMouseEntered="#mouseInRandom" onMouseExited="#mouseOutRandom" prefHeight="187.0" prefWidth="326.0">
+         <children>
+            <ImageView fitHeight="204.0" fitWidth="346.0" layoutX="-5.0" layoutY="5.0" onMouseClicked="#randomMinerAction" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@resources/random_miner.png" />
+               </image>
+            </ImageView>
+         </children>
+      </AnchorPane>
+      <AnchorPane fx:id="smartMiner" layoutX="658.0" layoutY="167.0" onMouseEntered="#mouseInSmart" onMouseExited="#mouseOutSmart" prefHeight="167.0" prefWidth="332.0">
+         <children>
+            <ImageView fitHeight="198.0" fitWidth="375.0" layoutY="-7.0" onMouseClicked="#smartMinerAction" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@resources/smart_miner.png" />
+               </image>
+            </ImageView>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
