@@ -1,6 +1,7 @@
 # CSINTSY MC01 - Gold Miner Version 2.24
 MC01. A Java Program that showcases AI capabilities using Breath-first Search as an algorithm for a Miner looking for a hidden gold in a grid. This Machine Project was submitted to Mrs. Judith Azcarraga as partial completion for the course CSINTSY at De La Salle University. My co-worker for this project is Jordan Sibug.
 
+You may opt to download the JAR file or download the source code, to run the program. I personally suggest downloading the JAR file instead. A JAR File is like a ZIP file for Java classes but acts like an EXE file (So when you download it, then run it, it opens the application easily without necessary extra setup).
 
 ## Downloading the JAR File
 1. Make sure that Java is installed already (Must be Version 11 or up). You may download Java 11 [here](https://www.oracle.com/ph/java/technologies/javase-jdk11-downloads.html). No need to download JavaFX for running the JAR File.
@@ -16,5 +17,5 @@ MC01. A Java Program that showcases AI capabilities using Breath-first Search as
 
 
 ### Final Reminders
-* This application has been designed specifically for monitors having at least 24 inches. The developers apologize for this. It's still runnable to every computer having Java 11 and up; but the window might be too large for smaller screens. It will still function - It might just be a nuisance for those users with smaller screens.
+* **This application has been designed specifically for monitors having at least 24 inches.** The developers apologize for this. It's still runnable to every computer having Java 11 and up; but the window might be too large for smaller screens. It will still function - It might just be a nuisance for those users with smaller screens.
 * Your computer might consider the JAR file a malware since it's a program *not widely known* since we're just students. Disregard any warnings your computer or anti-virus may say. We guarantee that our JAR file has no virus or malicious software embedded to it.
