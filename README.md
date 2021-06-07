@@ -15,7 +15,9 @@ You may opt to download the JAR file or download the source code, to run the pro
 4. Once done downloading, open the folder as project. Add JavaFX libraries to the Global Libraries of IntelliJ Project. Learn how to do it [here](https://youtu.be/WtOgoomDewo).
 5. Run the main function located at **Driver.java** (src/game/Driver.java)
 
-
 ### Final Reminders
+* The Default position of the gold is on coordinates (n - 1, n - 1) where n is the size of the n x n grid. So if the grid is 8x8, the default Gold coordinate is at (7, 7).
+* There are no beacons and pits in the grid as a default setup, one must add them in order for them to appear.
+* The Miner's default location is at (0, 0) which is at the upper left corner of the grid.
 * **This application has been designed specifically for monitors having at least 24 inches.** The developers apologize for this. It's still runnable to every computer having Java 11 and up; but the window might be too large for smaller screens. It will still function - It might just be a nuisance for those users with smaller screens.
 * Your computer might consider the JAR file a malware since it's a program *not widely known* since we're just students. Disregard any warnings your computer or anti-virus may say. We guarantee that our JAR file has no virus or malicious software embedded to it.
