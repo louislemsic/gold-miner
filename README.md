@@ -5,7 +5,7 @@ You may opt to download the JAR file or download the source code, to run the pro
 
 ## Preview
 <p align="center">
-  <img src="https://media.giphy.com/media/qetkHgdeZrIhVpdtb4/giphy.gif" height="300px" />
+  <img src="https://media.giphy.com/media/qetkHgdeZrIhVpdtb4/giphy.gif"/>
 </p>
 
 ## Downloading the JAR File
