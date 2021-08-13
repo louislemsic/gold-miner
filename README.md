@@ -3,6 +3,11 @@ MC01. A Java Program that showcases AI capabilities using Breath-first Search as
 
 You may opt to download the JAR file or download the source code, to run the program. I personally suggest downloading the JAR file instead. A JAR File is like a ZIP file for Java classes but acts like an EXE file (So when you download it, then run it, it opens the application easily without necessary extra setup).
 
+## Preview
+<p align="center">
+  <img src="https://media.giphy.com/media/qetkHgdeZrIhVpdtb4/giphy.gif" height="350px" />
+</p>
+
 ## Downloading the JAR File
 1. Make sure that Java is installed already (Must be Version 11 or up). You may download Java 11 [here](https://www.oracle.com/ph/java/technologies/javase-jdk11-downloads.html). No need to download JavaFX for running the JAR File.
 3. Download the JAR file at http://bit.ly/CSINTSY-GoldMiner
